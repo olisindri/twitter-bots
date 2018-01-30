@@ -1,0 +1,6 @@
+Kínavírus herjar á Apple
+
+Nýr, áður óþekktur tölvuvírus herjar núa á apple-hugbúnað og hefur dreift sér meðal hundruð þúsunda notenda.
+
+Nýr, áður óþekktur tölvuvírus herjar núa á apple-hugbúnað og hefur dreift sér meðal hundruð þúsunda notenda, einkum kínverskra -- en hann er talinn vera frá Kína upprunalega.
+ Erlendir fjölmiðlar fjalla ítarlega um málið en tölvusérfræðingar hafa varað við þessum vírus, eða "WireLurker" sem dreifir sér þegar öppum er halað niður, einkum í farsíma. Þetta er ólíkt nokkru sem áður hefur sést, segja tölvusérfræðingar, en Apple-hugbúnaðurinn hefur hingað til verið að mestu laus við vírusaplágu. Ekki er vitað hvað þessi vírus gerir, að hverju hann miðar en talið er að hann geti safnað persónulegum upplýsingum úr tölvum.

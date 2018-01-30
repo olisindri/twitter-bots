@@ -1,0 +1,12 @@
+Radar
+
+Er ég á radar?
+Bíp
+Hvar á ég að leita?
+Bíp
+Minn radar hefur eina gráðu.
+Bíp
+Sú gráða er hjá þér.
+Bíp
+Hljóðið er hjá þér
+Bíp

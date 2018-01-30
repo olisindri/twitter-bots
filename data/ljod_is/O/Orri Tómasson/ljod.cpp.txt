@@ -1,0 +1,18 @@
+ljod.cpp
+
+int main()
+{short man = true;
+  short woman;
+  double pleasure;
+
+  while(short man_is_at_work = true)
+  {short woman_is_lonely = true;
+float tears = true;
+tears++
+}
+
+for(pleasure = man + woman; long holiday = true; pleasure++)
+{if (short penis = true)float wine = man + woman;
+elsedouble bed = man + woman;}
+double dragon = pleasure = true;
+	   return 0;}

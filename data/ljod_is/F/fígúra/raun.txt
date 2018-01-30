@@ -1,0 +1,21 @@
+raun
+
+fjölmargar tilraunir hafi verið gerðar
+tilraunir til tilrauna í það minnsta
+en engar framfarir eru mælanlegar
+
+líkt og hornafall geta þær sveiflast
+upp fyrir og niður fyrir línuna
+en meðaltalið er alltaf núll
+
+margföldun með heilli eða hálfri tölu
+jafnvel diffrun eða heildun
+breytir ekki neinu
+
+það er því aðeins eitt ráð
+fara verður að kjarnanum
+og breyta formúlunni
+
+en þrátt fyrir einfaldleika
+er dulkóði minn flókinn
+erfðaefni mínu fæst ekki breytt

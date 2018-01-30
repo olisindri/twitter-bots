@@ -1,0 +1,3 @@
+hamingja = þú
+
+ef allir í heiminum væru hamingja, þá væru allir þú

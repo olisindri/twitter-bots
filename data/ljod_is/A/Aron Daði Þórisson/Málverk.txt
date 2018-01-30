@@ -1,0 +1,9 @@
+Málverk
+
+Blár,gulur,blár,rauður,grænn,gulur,blár,gulur,blár
+Blár blár gulur, gulur, rauður,grænn,grænn,rauður
+blár,grænn,rauður,grænn,gulur,grænn,gulur,grænn
+Rauður,Blár,rauður,grænn, blár,gulur,blár,grænn,rauður
+Gulur,rauður,blár,gulur,blár,blár,gulur,grænn,blár
+Grænn,grænn,gulur, blár, rauður,gulur, rauður,grænn
+Rauður,blár,gulur,grænn,rauður,grænn,blár,grænn

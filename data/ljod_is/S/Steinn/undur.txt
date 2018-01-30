@@ -1,0 +1,7 @@
+undur
+
+Fyrir framan mig er ílangur svartur hlutur.
+Hann er alsettur ferhyrndum útskotum með hvítum táknum.
+Ef ég þrýsti á útskotin birtast tákn á ljósfleti fyrir ofan svarta hlutinn.
+
+Ef ég set táknin í rétta röð fæ ég borgað.

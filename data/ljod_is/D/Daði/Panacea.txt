@@ -1,0 +1,6 @@
+Panacea
+
+Það er api í víngarðinum
+og annar sem er að ríða honum.
+Manstu þegar við vorum apar
+og hlupum um víngarðana?

@@ -1,0 +1,7 @@
+Fyrsta bindi.
+
+Fallega skreytt bókin 
+liggur á náttborði mínu.
+Það gleymdist víst
+að setja í hana 
+index og blaðsíðutal.
